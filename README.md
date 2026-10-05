@@ -36,8 +36,9 @@ This is an automated snapshot, **not a security audit**. On-chain state can chan
 For a human-verified review — plain-English findings, severity ranking, and fix list for your team — see the services below. We run this same tooling plus a manual pass, delivered as a client-ready report within 24h.
 
 - Services & reviews: https://invisiblemonsters.github.io/
+- Industry data report (2,448 launches screened): https://invisiblemonsters.github.io/state-of-token-safety.html
 - Token launch review: https://laborx.com/gigs/i-will-run-a-24h-token-launch-safety-review-mint-lp-honeypot-holders-121820
-- Contact: metatron.scribe@proton.me
+- Contact: metatron.backup2026@tutamail.com
 
 ## License
 
