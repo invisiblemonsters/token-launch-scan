@@ -1,0 +1,46 @@
+{
+  "certificate": {
+    "format": "metatron-cert/1",
+    "issuer": "Metatron Research",
+    "issuer_contact": "metatron.backup2026@tutamail.com",
+    "issuer_pubkey": "a360e82cd9e9d693c663344ab0d120c9dcf8d628a090331cbee0f855ed11ea13",
+    "subject": {
+      "chain": "solana",
+      "address": "6e8LLHkqCTa4mzGuL1PoUxSfeHmDeceJ3DaJSSUNg937",
+      "symbol": "SAMPLE"
+    },
+    "issued_at": "2026-10-05T23:27:18.073904+00:00",
+    "tool": "token-launch-scan",
+    "claims": {
+      "mint_authority": "renounced",
+      "freeze_authority": "none",
+      "supply_raw": "998062888329822",
+      "rugcheck_score": 1,
+      "holder_count": 10853,
+      "largest_holder_pct": 9.24,
+      "top5_holder_pct": 21.87,
+      "verdict_counts": {
+        "green": 2,
+        "info": 1,
+        "warn": 0,
+        "red": 0,
+        "other": 0
+      }
+    },
+    "verdict": [
+      "GREEN: Solana mint authority renounced",
+      "GREEN: no freeze authority",
+      "INFO: rugcheck score (higher=riskier): 1"
+    ],
+    "evidence": {
+      "raw_scan_sha256": "d3c884d48a47f6bb30d8c02a35fff3e90f6b94f0e734d11418509d7835889164",
+      "raw_scan_bytes": 712
+    },
+    "disclaimer": "Automated snapshot at issued_at, not an audit. Signature proves issuance and integrity, not the absence of risk."
+  },
+  "signature": {
+    "alg": "ed25519",
+    "value": "95d7bf2ec7fd5e4d20b34f9eaf8e8aa529f23ac108f9b300a4d747db8596e7141741d9241f6ac27a2910759e15e3a5aeae59e2dac604f3178644fd676c4fa20a",
+    "pubkey": "a360e82cd9e9d693c663344ab0d120c9dcf8d628a090331cbee0f855ed11ea13"
+  }
+}
